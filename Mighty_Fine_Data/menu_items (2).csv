@@ -1,0 +1,12 @@
+menu_item_id,item_name,description,price,is_available
+1,Classic Burger,Single beef patty with lettuce tomato pickles and onion,7.99,true
+2,Bacon Cheeseburger,Single beef patty with bacon American cheese lettuce and tomato,9.49,true
+3,Double Mighty Burger,Two beef patties with American cheese lettuce tomato pickles and Mighty Fine sauce,11.99,true
+4,Pepper Jack Burger,Single beef patty with pepper jack cheese jalapenos and BBQ sauce,9.99,true
+5,Avocado Bacon Burger,Single beef patty with avocado bacon lettuce tomato and mayo,10.99,true
+6,Grilled Chicken Sandwich,Grilled chicken breast on wheat bun with lettuce tomato and mayo,8.99,true
+7,Veggie Burger,Veggie patty on wheat bun with lettuce tomato avocado and mustard,8.49,true
+8,Mighty Fine Fries,Hand-cut fries seasoned and fried to order,3.99,true
+9,Chocolate Shake,Hand-spun chocolate shake made with real ice cream,5.49,true
+10,Fountain Drink,Assorted fountain drinks,2.49,true
+11,Bottled Water,Cold bottled water,1.99,true
